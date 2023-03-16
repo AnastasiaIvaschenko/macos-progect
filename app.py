@@ -1,2 +1,4 @@
-rpint("hellow word!")
+print("hellow word!")
+print('hello people")
+
 
